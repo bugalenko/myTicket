@@ -4,5 +4,10 @@
     <string name="app_name">myTicket</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="login_">Login:</string>
+    <string name="email_">"E-mail: "</string>
+    <string name="password_">Password:</string>
+    <string name="send_">Send</string>
+    <string name="hint_to_send_registration_">Нажмите,чтобы отправить данные регистрации</string>
 
 </resources>
