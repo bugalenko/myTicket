@@ -9,5 +9,7 @@
     <string name="password_">Password:</string>
     <string name="send_">Send</string>
     <string name="hint_to_send_registration_">Нажмите,чтобы отправить данные регистрации</string>
+    <string name="warning_lessPasswordLength">&quot;Длина пароля не должна быть меньше 9 символов!!!&quot;</string>
+    <string name="noinput">Введены не все данные!!!!!!</string>
 
 </resources>
